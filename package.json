@@ -1,0 +1,21 @@
+{
+  "name": "gitignore",
+  "version": "1.0.0",
+  "description": "a gitignore template generator using toptal.com api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishuR31/gitignore.git"
+  },
+  "author": "nishuR31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishuR31/gitignore/issues"
+  },
+  "homepage": "https://github.com/nishuR31/gitignore#readme"
+}
